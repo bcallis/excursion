@@ -1,0 +1,40 @@
+html {
+  font-family: verdana;
+  background-color: black;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+a:link {
+  color: aquamarine;
+}
+
+#download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#mission {
+  font-size: 21px;
+}
+
+#footer {
+text-align: right;
+}
+
+#mission, #footer {
+  color: gray;
+}
